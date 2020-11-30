@@ -1,7 +1,10 @@
 # Projeto AF
 
-Nome: Vinícius Lourenço Claro Cardoso
-RA: 180618
+## Dupla
+
+Nome: Vinícius Lourenço Claro Cardoso - RA: 180618
+
+Maria Alice dos Santos Lucio - RA: 180465
 
 ## Introdução
 
@@ -15,3 +18,8 @@ Veículo será `Vehicle` e Reserva será `Reservation`.
 Para testar, basta rodar esse projeto e acessar o url [http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html),
 ali conterá todas as rotas da aplicação no qual você poderá ir testando a adição e remoção
 dos clientes, veículos e reservas.
+
+## Heroku
+
+O projeto foi hospedado no Heroku também, para ver as rotas e mexer na API por lá,
+acesse esse link: [https://facens-poo-af.herokuapp.com/swagger-ui.html](https://facens-poo-af.herokuapp.com/swagger-ui.html).
